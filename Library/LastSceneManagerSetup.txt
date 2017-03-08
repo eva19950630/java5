@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/linear_running.unity
+  isLoaded: 1
+  isActive: 1
