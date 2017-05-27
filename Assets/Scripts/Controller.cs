@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Controller : MonoBehaviour {
-	public GameObject lollipig;
-	public GameObject bosspig;
+	public GameObject lollipig, bosspig, feedbackText;
 	public float speed, fspeed;
 	public bool next = true;
 	public float tmp;
@@ -29,8 +28,14 @@ public class Controller : MonoBehaviour {
 		// 	tmp = fspeed / tmp;
 		// else
 		// 	tmp = 0;
-		if(tmp != 0)
+		if(tmp != 0) {
+			feedbackText.SetActive(false);
 			speed = fspeed / tmp;
+		}
+		else {
+			feedbackText.SetActive(true);
+		}
+
 		if(next){
 			bosspig.transform.position = Vector3.Lerp(bosspig.transform.position ,lollipig.transform.position, speed);
 			StartCoroutine(move());
@@ -42,4 +47,6 @@ public class Controller : MonoBehaviour {
 		yield return new WaitForSeconds(0.01f);
 		next = true;
 	}
+
+	
 }

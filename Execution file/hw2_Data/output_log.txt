@@ -1,0 +1,35 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\University of Taipei\105-2\研-高等電腦遊戲演算法\H.W\hw2\hw2\Execution file\hw2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\University of Taipei\105-2\研-高等電腦遊戲演算法\H.W\hw2\hw2\Execution file\hw2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\University of Taipei\105-2\研-高等電腦遊戲演算法\H.W\hw2\hw2\Execution file\hw2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\University of Taipei\105-2\研-高等電腦遊戲演算法\H.W\hw2\hw2\Execution file\hw2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\University of Taipei\105-2\研-高等電腦遊戲演算法\H.W\hw2\hw2\Execution file\hw2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\University of Taipei\105-2\研-高等電腦遊戲演算法\H.W\hw2\hw2\Execution file\hw2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\University of Taipei\105-2\研-高等電腦遊戲演算法\H.W\hw2\hw2\Execution file\hw2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\University of Taipei\105-2\研-高等電腦遊戲演算法\H.W\hw2\hw2\Execution file\hw2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\University of Taipei\105-2\研-高等電腦遊戲演算法\H.W\hw2\hw2\Execution file\hw2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\University of Taipei\105-2\研-高等電腦遊戲演算法\H.W\hw2\hw2\Execution file\hw2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\University of Taipei\105-2\研-高等電腦遊戲演算法\H.W\hw2\hw2\Execution file\hw2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\University of Taipei\105-2\研-高等電腦遊戲演算法\H.W\hw2\hw2\Execution file\hw2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.027 seconds
+Platform assembly: D:\University of Taipei\105-2\研-高等電腦遊戲演算法\H.W\hw2\hw2\Execution file\hw2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\University of Taipei\105-2\研-高等電腦遊戲演算法\H.W\hw2\hw2\Execution file\hw2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.045473 ms
+5.830952
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 6a30 -> priority: 1 
